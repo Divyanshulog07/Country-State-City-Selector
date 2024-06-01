@@ -8,18 +8,18 @@ so following are the some steps to upload the project on github using git lfs
 2) go to the file of your project then open it then you see node_modules, public, src, etc..
 3) Press Right click and open terminal
 4) then add the following commands
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin https://github.com/your-username/your-repo-name.git
+   1) git init
+   2) git add .
+   3) git commit -m "Initial commit"
+   4) git remote add origin https://github.com/your-username/your-repo-name.git
    # example:  git remote add origin https://github.com/Divyanshulog07/Country-State-City-Selector.git
-   git lfs install
+   5) git lfs install
    # make sure to install git lfs in your pc/laptop
-   git lfs track "path/to/largefile"
+   6) git lfs track "path/to/largefile"
    # example:  git lfs track "D:\mini project\countrystatecity\country-state-city-selection\src\componets"
-   git add .gitattributes
-   git commit -m "Track large files with Git LFS"
-   git push -u origin master
+   7) git add .gitattributes
+   8) git commit -m "Track large files with Git LFS"
+   9) git push -u origin master
 5) As this process you will add the project of more han 25 mb into the github
 =======
 # Getting Started with Create React App
