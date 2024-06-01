@@ -21,7 +21,7 @@ so following are the some steps to upload the project on github using git lfs
    8) git commit -m "Track large files with Git LFS"
    9) git push -u origin master
 5) As this process you will add the project of more han 25 mb into the github
-6) 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
